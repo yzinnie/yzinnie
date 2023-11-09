@@ -1,7 +1,6 @@
 #### 👋 Hi, I’m @yzinnie
 
-### 🔮 Languages and Tools 🔮
-
+#### 🔮 this is my web 👉🏻 https://yzinnie.github.io/JS-Project-myweb/
 
 
 
