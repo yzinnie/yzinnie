@@ -2,7 +2,7 @@
 
 #### 🔮 this is my web 👉🏻 https://yzinnie.github.io/JS-Project-myweb/
 
-#### Front-End 👩🏻‍💻
+#### Front-end 😇
 
 
 
