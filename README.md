@@ -1,6 +1,9 @@
-#### 👋 Hi, I’m @yzinnie
+#### 👋 Hi, I’m Jihyun!
 
 #### 🔮 this is my web 👉🏻 https://yzinnie.github.io/JS-Project-myweb/
+
+#### Front-End 👩🏻‍💻
+
 
 
 
