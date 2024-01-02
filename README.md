@@ -1,13 +1,10 @@
 
 
-#### 👩🏻‍🚀 Hi, I’m Jihyun!
+### 👩🏻‍🚀 Hi, I’m Jihyun!
 
+#### 🌠 this is my web 👉🏻 https://yzinnie.github.io/JS-Project-myweb/
 
-
-
-#### 🔮 this is my web 👉🏻 https://yzinnie.github.io/JS-Project-myweb/
-
-##### 👽 Front-end 🛸
+#### 👽 Front-end 🛸
 
 
 
