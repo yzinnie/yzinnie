@@ -2,7 +2,7 @@
 
 ### 👩🏻‍🚀 Hi, I’m Jihyun!
 
-#### 🌠 this is my web 👉🏻  https://yzinnie-react.web.app
+#### 🌠 this is my web 👉🏻  https://portfolio-jj.web.app/
 |
 |
 🛸
