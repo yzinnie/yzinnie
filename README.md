@@ -1,6 +1,6 @@
 
-
-### 👩🏻‍🚀 Hi, I’m Jihyun!
+### 안녕하세요!
+### 👩🏻‍🚀 Hi, I’m Jihyun Yoon!
 
 🌠 
 |
